@@ -1,6 +1,6 @@
 # SI_2024_lab2_216149-
 Ivan Timchevski 216149 
-~[diagram](/c/Users/Ivan/Desktop/SI_2024_lab2_216149-/diagram.png) 
+~[Diagram](diagram.png) 
 <h1>Ciklomatska kompleksnost </h2>
 <p> Ja presmetuvame slednava ravenka:M=E-N+2p = 8 <p>
 <h2> Test slucaevi spored Every Branch kriterium, ispolnet vo 4 slucai </h2>
